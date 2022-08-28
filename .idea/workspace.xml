@@ -51,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Writeing">
+  <component name="RunManager" selected="Application.filer">
     <configuration name="Writeing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Writeing" />
       <module name="FirstFileMaking" />
@@ -75,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Writeing" />
         <item itemvalue="Application.filer" />
+        <item itemvalue="Application.Writeing" />
         <item itemvalue="Application.pcFiler" />
       </list>
     </recent_temporary>
